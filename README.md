@@ -1,5 +1,7 @@
 # File Metadata Microservice
 
+This project is part of the [FreeCodeCamp curriculum](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/file-metadata-microservice).
+
 ## Overview
 This project is a simple API that allows users to upload a file and receive metadata about the file, such as its name, type, and size.
 
